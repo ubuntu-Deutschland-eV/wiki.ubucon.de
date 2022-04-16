@@ -1,0 +1,44 @@
+Die Referenten halten Kontakt über die Mailadresse **idee@ubucon.de** (siehe [[ubucon:2015:kommunikation|Externe Kommunikation]]). Die Mailadresse leitet auf die Mailingliste Organisation [[http://lists.ubuntu-eu.org/mailman/listinfo/idee-ubucon-de|idee-ubucon-de]] weiter.
+
+**Neu in 2015:** Die Anmeldung der Vorträge geschieht [[http://ubucon.de/2015/cfp|über ein Formular]].
+
+====== Kontaktpflege ======
+
+Die Kontakte werden aus Datenschutzgründen auf einer interne Wiki-Seite gepflegt (mit Absicht nicht verlinkt). Der Aufbau der Seite ist wie folgt:
+
+^^ Name           ^^ Vortrag  ^^ E-Mail                 ^^ angemeldet ^^ Termin ^^ Bemerkungen  ^^
+|| Max Mustermann || Shell    || max.mustermann@gmx.de  || X          ||        || am liebsten Freitag ||
+
+Neben dem Namen ist der Vortragstitel wichtig, damit man die Zuordnung auf der [[http://ubucon.de/2015/programm|Programmseite]] hat (siehe unten).
+
+===== Anmeldung =====
+
+Alle Referenten sollen sich wie normale Besucher und die Helfer vorab [[http://ubucon.de/2015/anmeldung|anmelden]]. Dies muss man beim Erstkontakt direkt in der E-Mail verständlich schreiben.
+
+**Neu in 2015:** Die Referenten müssen keine Anmeldegebühr zahlen. Ein Hinweis auf die freiwillige Kostenübernahme sollte in der Anmeldemail erfolgen!
+
+Wird ein Vortrag vor Anmeldestart eingereicht, schickt man an alle Referenten nach Anmeldestart einen entsprechenden Hinweis heraus (Anschreiben aus Datenschutzgründen immer als BCC).
+
+Unter "angemeldet" wird in der Tabelle vermerkt, wenn sich der Referent angemeldet hat.
+
+==== Terminbestätigung ====
+
+Wenn ein Referent einen Vortrag oder Workshop einreicht, fragt man auch nach, wann der Wunschtermin ist und welche anderen Vorträge von der Programmseite angehört werden sollen. Dies trägt am unter "Bemerkung" in die Tabelle ein. Bei der Erstellung des Programms ist darauf zu achten, auch wenn man nicht alle Wünsche befriedigen kann.
+
+Sobald das Programm intern festgelegt wurde (normalerweise am gleichen Tag wie der Einsendeschluss), schreibt man alle Referenten an (Anschreiben aus Datenschutzgründen immer als BCC) und schickt Ihnen das Programm zu. Unter "Termin" trägt man ein "X" ein, wenn der Referent den Termin bestätigt. Unbestätigte Termine bleiben aber genauso erhalten. Man hofft dann einfach, dass der Referent rechtzeitig erscheint.
+
+==== Programmerstellung ====
+
+**Neu in 2013:** Alle eingereichten Vorträge werden sofort bei Einreichung auf der [[http://ubucon.de/2015/programm|Programmseite]] veröffentlicht.
+
+Wenn der Einsendeschluss für Vorträge abgelaufen ist, erstellt man das Programm bzw. kann man auch etwas eher damit anfangen. Am einfachsten geht das mit Libre Office, in dem mal für jeden Vortrag je nach Dauer ein oder mehr Zellen untereinander reserviert. Danach muss man nur durch Ausschneiden und Einfügen die Daten verschieben, bis alles passt. Dabei auch die Wünsche der Referenten beachten.
+
+Das Programm sollte man als ODS und PDF in Launchpad einpflegen und auch auf der Programmseite zum Download anbieten. Bei jedem nachfolgenden Programmupdate nach der Veröffentlichung des Programms sollte man eine kurze Nachricht auf der Ubucon-Seite hinterlassen.
+
+====== Erfahrungen ======
+
+Die Kommunikation über Mailinglisten ist umständlich. Zum einen antworten die meisten Referenten und Kontakte nicht an alle, sondern grundsätzlich nur an die antwortende Person in der Organisation. Eine Umstellung im Mailprogramm der Organisationsperson auf "Antwort an:" wäre möglich, aber wird genauso oft vergessen.
+
+Zusätzlich dauert die Freischaltung bei einer Mailingliste mitunter sehr lange. So wurden Anfragen nicht bearbeitet und die restlichen Leser der ML nicht informiert, weil die Mail zuerst noch freigeschaltet werden musste.
+
+Das Programm kann man ruhig eine Woche vor Einsendeschluss grob erstellen, sollte aber entsprechende Slots freihalten, falls noch etwas nachkommt. Zusätzlich kommen oft nach Einsendeschluss noch der ein oder andere Beitrag, sodass man immer etwas Leerraum lassen sollte.

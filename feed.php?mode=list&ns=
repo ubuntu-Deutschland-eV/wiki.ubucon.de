@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.ubucon.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.ubucon.de/feed.php">
+        <title>Ubucon</title>
+        <description></description>
+        <link>https://wiki.ubucon.de/</link>
+        <image rdf:resource="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2022-04-15T00:04:25+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/start?rev=1446557863&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ubucon</title>
+        <link>https://wiki.ubucon.de/</link>
+        <url>https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/start?rev=1446557863&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-03T14:37:43+02:00</dc:date>
+        <title>start</title>
+        <link>https://wiki.ubucon.de/doku.php/start?rev=1446557863&amp;do=diff</link>
+        <description>Ubucon
+
+Die Ubucon  (kurz für „Ubuntu Conference“) ist ein seit 2007 stattfindendes Treffen von Anwendern und Entwicklern der Distribution Ubuntu. Auf der Konferenz wird den Teilnehmern die Möglichkeit geboten, sich bei Vorträgen, Diskussionsrunden und Workshops auszutauschen und neue Erfahrungen in verschiedenen Gebieten zu sammeln. Dabei werden nicht nur reine Ubuntu-Themen behandelt, sondern es werden auch alle Ableitungen der Distribution sowie allgemeine Linux-Themen zum Gespräch gebracht.…</description>
+    </item>
+</rdf:RDF>

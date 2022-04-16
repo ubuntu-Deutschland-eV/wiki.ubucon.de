@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.ubucon.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.ubucon.de/feed.php">
+        <title>Ubucon ubucon:2013:protokoll</title>
+        <description></description>
+        <link>https://wiki.ubucon.de/</link>
+        <image rdf:resource="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2022-04-15T00:04:45+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130429?rev=1372543802&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130505?rev=1372543913&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130512?rev=1372544079&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130519?rev=1372544258&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130526?rev=1372544540&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130602?rev=1372544756&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130609?rev=1372544901&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130616?rev=1372545022&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130622?rev=1372545118&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130629?rev=1372588171&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130708?rev=1373490094&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130715?rev=1374330393&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130722?rev=1375127228&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130729?rev=1375641602&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130804?rev=1375982507&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130818?rev=1376931427&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130825?rev=1377533394&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130901?rev=1378065011&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130908?rev=1379002521&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130915?rev=1379356392&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130922?rev=1380397240&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20131006?rev=1381251807&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20131020?rev=1382283648&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ubucon</title>
+        <link>https://wiki.ubucon.de/</link>
+        <url>https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130429?rev=1372543802&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:10:02+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130429</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130429?rev=1372543802&amp;do=diff</link>
+        <description>IRC-Protokoll 28.04.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 20 Uhr - 21:30 Uhr
+	*  Anwesend (aktiv): Death86, dee (Moderator, Protokollant), fbausch, MarkusH, Lasall, riot_le, ostcar, svij, toddy
+
+	*  Plakate/Flyer sind fertig, alles für LinuxTag bereit?</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130505?rev=1372543913&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:11:53+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130505</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130505?rev=1372543913&amp;do=diff</link>
+        <description>IRC-Protokoll 05.05.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 20 Uhr - 20:35 Uhr
+	*  Anwesend (aktiv): dee (Moderator und Protokollant), Lasall, toddy
+
+	*  Vor-Ort-Organisation
+		*  Klärung für LPI-Raumgröße, LPI-Sponsoring und dergleichen steht noch aus, weil der Verantwortliche noch im Urlaub ist. Ist nächste Woche wieder da.</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130512?rev=1372544079&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:14:39+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130512</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130512?rev=1372544079&amp;do=diff</link>
+        <description>IRC-Protokoll 12.05.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 20 Uhr - 20:55 Uhr
+	*  Anwesend (aktiv): dee (Moderator und Protokollant), riot_le, svij, toddy
+
+	*  Vor-Ort-Organisation (Fragen vom letzten Mal)
+		*  Lasall nicht anwesend, nächste Woche</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130519?rev=1372544258&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:17:38+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130519</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130519?rev=1372544258&amp;do=diff</link>
+        <description>IRC-Protokoll 19.05.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 20:00 - 21:15
+	*  Anwesend (aktiv): dee (Moderator und Protokollant), svij, stev96
+
+	*  Vor-Ort-Organisation
+		*  Lasall (nicht anwesend), von svij weitergeleitet:
+			*  Raumanfragen für die LPI-Prüfungen steht Antwort noch aus</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130526?rev=1372544540&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:22:20+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130526</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130526?rev=1372544540&amp;do=diff</link>
+        <description>IRC-Protokoll 26.05.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 20:00 - 21:40
+	*  Anwesend (aktiv): dee, Lasall, ostcar (kurz), riot_le, simon_vicki, stev96, svij, toddy
+
+	*  Vor-Ort-Organisation
+		*  nichts Neues zu berichten, alle Anfragen sind noch ausstehend</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130602?rev=1372544756&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:25:56+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130602</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130602?rev=1372544756&amp;do=diff</link>
+        <description>IRC-Protokoll 02.06.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 20:00 - 21:00
+	*  Anwesend (aktiv): dee, riot_le (bis 20:40 Uhr), stev96, svij, toddy
+
+	*  Helfer
+		*  Diskussion: Zahlen Helfer auch auch den Unkostenbeitrag von 10 Euro?
+			*  Unkostenbeitrag ist für Trinken und Essen.</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130609?rev=1372544901&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:28:21+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130609</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130609?rev=1372544901&amp;do=diff</link>
+        <description>IRC-Protokoll 09.06.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 20:00 - 20:45
+	*  Anwesend (aktiv): dee (Moderator und Protokollant), riot_le, svij, toddy, stev96 (ab 20:18 Uhr)
+
+	*  Vor-Ort-Orga
+		*  Neues von Lasall (Unterkünfte, Stadtführung Social Events, Räumlichkeiten)</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130616?rev=1372545022&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:30:22+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130616</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130616?rev=1372545022&amp;do=diff</link>
+        <description>IRC-Protokoll 16.06.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 20:00 - 21:00
+	*  Anwesend (aktiv): toddy (Moderator und Protokollant), riot_le, svij, stev96 
+
+	*  Vor-Ort-Orga
+		*  Neues von Lasall (Unterkünfte, Stadtführung Social Events, Räumlichkeiten) – riot_le hat mit ihm telefoniert</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130622?rev=1372545118&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:31:58+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130622</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130622?rev=1372545118&amp;do=diff</link>
+        <description>IRC-Protokoll 22.06.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 21:05 - 21:50
+	*  Anwesend (aktiv): toddy (Moderator und Protokollant), Lasall, svij, steven_
+
+	*  Vor-Ort-Orga
+		*  Neues von Lasall 
+			*  Räumlichkeiten für Veranstaltung stehen
+			*</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130629?rev=1372588171&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T12:29:31+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130629</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130629?rev=1372588171&amp;do=diff</link>
+        <description>IRC-Protokoll 29.06.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 21:00 - 21:50
+	*  Anwesend (aktiv): toddy (Moderator und Protokollant), Lasall, svij, riot_le
+
+	*  Terminfindung
+		*  Es wurde angemerkt, dass der Samstag wohl doch nicht so gut passt. Ab dem 8. Juli wird der Montag als Termin genommen. Nächster Termin ist also Montag 8. Juli um 21 Uhr.</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130708?rev=1373490094&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-07-10T23:01:34+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130708</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130708?rev=1373490094&amp;do=diff</link>
+        <description>IRC-Protokoll 08.07.2013
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 21:00 - 22:00
+	*  Anwesend (aktiv): Dee (Moderator und Protokollant), Lasall, riot_le, stev96, svij, toddy
+
+	*  Vor-Ort-Orga
+		*  WLAN immer noch nicht gesichert
+			*  bis spätestens 1.9. soll WLAN geklärt sein</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130715?rev=1374330393&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-07-20T16:26:33+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130715</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130715?rev=1374330393&amp;do=diff</link>
+        <description>IRC-Agenda 15.07.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 20:00 - 20:40 Uhr
+	*  Anwesend (aktiv): Arcesson, Dee, Lasall, stev96, toddy, svij (später)
+
+	*  Linux-Quiz
+		*  Vorschlag von Dee: Geek-Fragen (Serien, Comics, Filme)
+			*  niemand dagegen, einfach mal testen</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130722?rev=1375127228&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-07-29T21:47:08+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130722</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130722?rev=1375127228&amp;do=diff</link>
+        <description>IRC-Protokoll 22.07.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 20:00 - 21:00
+	*  Anwesend (aktiv): Arcesson (Stefan), Dee, svij, toddy, riot_le, Sonny89 (Florian), Robert und ggf. andere, was in der Telefonkonferenz schwer festzustellen war
+
+Vor-Ort-Orga</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130729?rev=1375641602&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-08-04T20:40:02+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130729</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130729?rev=1375641602&amp;do=diff</link>
+        <description>IRC-Protokoll 29.07.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 20:00 - 21:15
+	*  Anwesend (aktiv): Dee, Sonny89 (Florian), svij, Robert
+
+	*  Vor-Ort-Orga
+		*  Gästehaus der SRH reserviert uns 30 Zimmer
+		*  Unterkunftsseite von Dee
+		*  Anreise von Lasall
+		*  Abendtreffen von Sonny89</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130804?rev=1375982507&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-08-08T19:21:47+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130804</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130804?rev=1375982507&amp;do=diff</link>
+        <description>IRC-Protokoll 04.08.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 19:00 - 20:15
+	*  Anwesend (aktiv): svij, dee, Robert, riot_le, Arcesson (Stefan), Lasall
+
+	*  Vorträge
+		*  riot_le fragt wegen Referenten beim Linux-Magazin nach
+		*  riot_le spricht Schweizer Community an</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130818?rev=1376931427&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-08-19T18:57:07+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130818</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130818?rev=1376931427&amp;do=diff</link>
+        <description>Protokoll 18.08.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 19:00 - 20:15
+	*  Anwesend (aktiv): dee, toddy, Lasall
+
+	*  Sponsoring
+		*  Galileo (und andere) auch auf der Sponsor-Seite erwähnen?
+			*  ja, macht Dee
+
+		*  getdigital.de hat als Sponsor zugesagt (Tasse, Krug, Cap und Shirts)</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130825?rev=1377533394&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-08-26T18:09:54+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130825</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130825?rev=1377533394&amp;do=diff</link>
+        <description>Agenda 25.08.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 19:00 - 19:45
+	*  Anwesend (aktiv): dee, toddy, svij
+
+	*  Vor-Ort-Orga
+		*  Social-Events auf Webseite ankündigen
+			*  ja, macht Dee (Erledigt im Protokoll)
+
+		*  Namensschilder sind fertig:</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130901?rev=1378065011&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-09-01T21:50:11+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130901</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130901?rev=1378065011&amp;do=diff</link>
+        <description>Protokoll 01.09.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 19:00 - 19:35
+	*  Anwesend (aktiv): dee, riot_le, Robert, svij
+
+	*  Vor-Ort-Orga
+		*  Catering
+			*  Vegane Brötchen oder Nicht-Weizenbrötchen (Roggen, Dinkel) möglich? (Wierdervorlage)</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130908?rev=1379002521&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-09-12T18:15:21+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130908</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130908?rev=1379002521&amp;do=diff</link>
+        <description>Protokoll 08.09.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 19:00 - 19:50
+	*  Anwesend (aktiv): dee, toddy, Lasall, riot_le, svij, Robert, Florian
+
+	*  Vor-Ort-Orga
+		*  Lanyards
+			*  Marcus M. hat nur 90 Stück -&gt; erstmal abgesagt, weil wir dann eh welche nachdrucken müssten</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130915?rev=1379356392&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-09-16T20:33:12+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130915</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130915?rev=1379356392&amp;do=diff</link>
+        <description>Protokoll 15.09.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 19:00 - 20:00
+	*  Anwesend (aktiv): dee, Robert, Florian, Torsten, svij
+
+	*  Vor-Ort-Orga:
+		*  Ubuntu-Tassen
+			*  Laut tomx3 hat Holger Quinger (neben Micha Zoet) noch Ubuntu-Tassen. Tom hat ihn mal angefragt.</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130922?rev=1380397240&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-09-28T21:40:40+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20130922</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20130922?rev=1380397240&amp;do=diff</link>
+        <description>Protokoll 22.09.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 19:00 - 19:35 Uhr
+	*  Anwesend (aktiv): dee, svij, riot_le, toddy
+
+	*  Programm
+		*  Programm online: &lt;http://ubucon.de/2013/programm-der-ubucon-2013-veroeffentlicht&gt;
+		*  LPI-Prüfung: insgesamt 27 Prüfungen (laut Klaus Behrla)
+		*  iCal-Dateien anbieten (Mail von M. Junker)</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20131006?rev=1381251807&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-08T19:03:27+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20131006</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20131006?rev=1381251807&amp;do=diff</link>
+        <description>Protokoll 06.10.2013
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 20:00 - 
+	*  Anwesend (aktiv): dee, toddy, riot_le, Lasall, Robert
+
+	*  siehe To-Do-Liste
+	*  Kuchen ist bestellt (Kosten: 120 Euro)
+		*  Dee fragt bei Simon/Vicki nach wegen Abholung (Anfrage erledigt</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20131020?rev=1382283648&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-20T17:40:48+02:00</dc:date>
+        <title>ubucon:2013:protokoll:20131020</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll:20131020?rev=1382283648&amp;do=diff</link>
+        <description>Protokoll 20.10.2013 (Abschlusstreffen)
+
+	*  Treffpunkt: #ubucon-de und Telko 
+	*  Dauer: 16:00 - 17:40
+	*  Anwesend (aktiv): dee, svij, toddy, riot_le (ab 16:45)
+
+	*  Retrospektive ausfüllen
+	*  Abrechnung mit Verein ist erfolgt (macht Dee)
+	*  Quittungen noch offen (macht Dee)</description>
+    </item>
+</rdf:RDF>

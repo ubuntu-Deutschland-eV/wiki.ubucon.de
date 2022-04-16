@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.ubucon.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.ubucon.de/feed.php">
+        <title>Ubucon ubucon:2015</title>
+        <description></description>
+        <link>https://wiki.ubucon.de/</link>
+        <image rdf:resource="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2022-04-15T00:04:33+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:aufgaben?rev=1432754537&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:kommunikation?rev=1432754330&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:protokoll?rev=1437059719&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:referenten?rev=1432756727&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:soziale_netzwerke?rev=1432755291&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:vor_ort?rev=1446470240&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:vorbereitungen?rev=1446469958&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:webseite?rev=1432755175&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:werbung?rev=1437629528&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ubucon</title>
+        <link>https://wiki.ubucon.de/</link>
+        <url>https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:aufgaben?rev=1432754537&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-05-27T21:22:17+02:00</dc:date>
+        <title>ubucon:2015:aufgaben</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:aufgaben?rev=1432754537&amp;do=diff</link>
+        <description>Aufgaben
+
+Auf der Seiten sollen die Aufgaben, aber vor allem die Ansprechpartner beschrieben werden, sodass man bei Fragen sich schnell an die richtige Stelle wenden kann. Auf der Übersichtsseite findet man die Auflistung nach Gebieten.
+
+Orga-Team (alphabetisch)
+
+	*</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:kommunikation?rev=1432754330&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-05-27T21:18:50+02:00</dc:date>
+        <title>ubucon:2015:kommunikation</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:kommunikation?rev=1432754330&amp;do=diff</link>
+        <description>Interne und externe Kommunikation
+
+Diese Seite beschreibt, wie die Kommunikation intern und von extern funktioniert.
+
+Interne Kommunikation
+
+E-Mail/Mailingliste
+
+Für die interne Kommunikation wird die Mailingliste
+
+	*  ubucon-de
+
+benutzt. Die Liste ist nicht öffentlich. Sie wird von</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:protokoll?rev=1437059719&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-16T17:15:19+02:00</dc:date>
+        <title>ubucon:2015:protokoll</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:protokoll?rev=1437059719&amp;do=diff</link>
+        <description>Protokoll
+
+Hier liegen die Protkolle der IRC-Treffen.
+
+	*  IRC-Protokoll 16. Juli 2015</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:referenten?rev=1432756727&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-05-27T21:58:47+02:00</dc:date>
+        <title>ubucon:2015:referenten</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:referenten?rev=1432756727&amp;do=diff</link>
+        <description>Die Referenten halten Kontakt über die Mailadresse idee@ubucon.de (siehe Externe Kommunikation). Die Mailadresse leitet auf die Mailingliste Organisation idee-ubucon-de weiter.
+
+Neu in 2015: Die Anmeldung der Vorträge geschieht über ein Formular.
+
+Kontaktpflege
+
+Die Kontakte werden aus Datenschutzgründen auf einer interne Wiki-Seite gepflegt (mit Absicht nicht verlinkt). Der Aufbau der Seite ist wie folgt:</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:soziale_netzwerke?rev=1432755291&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-05-27T21:34:51+02:00</dc:date>
+        <title>ubucon:2015:soziale_netzwerke</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:soziale_netzwerke?rev=1432755291&amp;do=diff</link>
+        <description>Soziale Netzwerke
+
+Um die Erreichbarkeit zu erhöhen, ist die Ubucon auch in sozialen Netzwerk vertreten. Im Jahr 2015 sind das:
+
+	*  Twitter
+	*  Facebook
+	*  Google+
+
+Bei Google+ wurde zu dem ein Google+ Ubucon Event angelegt.
+
+Zugriff
+
+Zugriff auf die Dienste hat im Jahr 2015 svij.
+
+Wenn auf der</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:vor_ort?rev=1446470240&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-02T14:17:20+02:00</dc:date>
+        <title>ubucon:2015:vor_ort</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:vor_ort?rev=1446470240&amp;do=diff</link>
+        <description>Vor Ort
+
+Die Organisation vor Ort in Berlin übernimmt Peter und Ixel.
+
+Organisation
+
+Es gibt eine Lounge in der die Besucher ankommen sich anmelden und ihr Ubuntu-Empfangspaket (Lanyard+Namensschild) entgegen nehmen können. Besucher die nicht angemeldet sind melden sich ebenfalls an der Rezeption an, bezahlen allerdings etwas mehr (diese Besucher sind nicht in die Verpflegungskalkulation eingeflossen weshalb der Aufwand höher ist).</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:vorbereitungen?rev=1446469958&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-02T14:12:38+02:00</dc:date>
+        <title>ubucon:2015:vorbereitungen</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:vorbereitungen?rev=1446469958&amp;do=diff</link>
+        <description>Vorbereitungen
+
+Die Seite soll beschreiben, wie der zeitliche Ablauf der Planung und Umsetzung zur Ubucon funktioniert. 
+
+Vergangenheit
+
+	*  28.10.2014: Veranstaltungsort gesucht
+	*  08.12.2014:  Veranstaltungsort gesucht Teil 2
+	*  24.05.2015: CfP gestartet, Ort angekündigt
+	*  27.05.2015: Poster, Flyer, Visitenkarten erstellt
+	*  13.06.2015: Poster, Flyer, Visitenkarten bestellt</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:webseite?rev=1432755175&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-05-27T21:32:55+02:00</dc:date>
+        <title>ubucon:2015:webseite</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:webseite?rev=1432755175&amp;do=diff</link>
+        <description>Webseite
+
+Die Ubucon-Webseite ubucon.de dient der Präsenz der Veranstaltung nach außen. Als CMS wird Drupal eingesetzt.
+
+Inhalte
+
+Auf der Webseite werden seit 2015 dynamische Inhalte (News) und statische Seiten abgelegt. Die statischen Seiten sind in der Regel über die Menüleiste links zugreifbar. Die News nur über den Link</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:werbung?rev=1437629528&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-23T07:32:08+02:00</dc:date>
+        <title>ubucon:2015:werbung</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:werbung?rev=1437629528&amp;do=diff</link>
+        <description>Werbung auf Webseiten
+
+Neben der Ubucon-Webseite und den Meldungen in Sozialen Netzwerken sollte man bei wichtigen Ereignissen (Call for Papers, Programm fertig etc.) auf folgenden Seiten versuchen eine Nachricht zu hinterlassen:
+
+	*  Pro-Linux
+	*  Heise open
+	*  Linux-Magazin
+
+Wie und ob Kontakt zu englischen Netzwerken, wie z.B. dem Ubuntu Newsletter, zustande kommt, ist nicht geklärt.</description>
+    </item>
+</rdf:RDF>

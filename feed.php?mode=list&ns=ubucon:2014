@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.ubucon.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.ubucon.de/feed.php">
+        <title>Ubucon ubucon:2014</title>
+        <description></description>
+        <link>https://wiki.ubucon.de/</link>
+        <image rdf:resource="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2022-04-15T00:04:37+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2014:aufgaben?rev=1389561477&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll?rev=1409480783&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ubucon</title>
+        <link>https://wiki.ubucon.de/</link>
+        <url>https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2014:aufgaben?rev=1389561477&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-01-12T22:17:57+02:00</dc:date>
+        <title>ubucon:2014:aufgaben</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2014:aufgaben?rev=1389561477&amp;do=diff</link>
+        <description>Aufgaben
+
+Auf der Seiten sollen die Aufgaben, aber vor allem die Ansprechpartner beschrieben werden, sodass man bei Fragen sich schnell an die richtige Stelle wenden kann. 
+
+Orga-Team (alphabetisch)
+
+	*  Dee - Referentenbetreuung, Organisation des Call for Papers</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll?rev=1409480783&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-08-31T12:26:23+02:00</dc:date>
+        <title>ubucon:2014:protokoll</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll?rev=1409480783&amp;do=diff</link>
+        <description>Protokoll
+
+Hier liegen die Protokolle der Treffen zur Organisation der Ubucon.
+
+	*  Protokoll vom 18.1.2014
+	*  Protokoll vom 23.2.2014
+	*  Protokoll vom 25.4.2014
+	*  Protokoll vom 30.8.2014</description>
+    </item>
+</rdf:RDF>

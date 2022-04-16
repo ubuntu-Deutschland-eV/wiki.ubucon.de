@@ -1,0 +1,125 @@
+====== Werbung ======
+
+Sehr frühzeitig muss Werbung auf anderen Linux-Messen und natürlich am [[Ubucon:2013:Vor_Ort|Veranstaltungsort]] gemacht werden.
+
+===== Material ======
+
+Das Material der Ubucon 2013 liegt auf [[https://code.launchpad.net/~ubuntu-de-locoteam/+junk/loco-de|Launchpad]] und kann mit [[ubuntuusers>Bazaar]] über
+
+  bzr branch lp:~ubuntu-de-locoteam/+junk/loco-de
+
+heruntergeladen werden. Hochladen darf man Sachen nur, wenn man Mitglied eines [[https://launchpad.net/~ubuntu-de-locoteam|deutschen LocoTeams]] ist.
+
+Siehe auch [[http://ubucon.de/2013/Material|Ubucon-Webseite]].
+
+==== Poster, Flyer etc. ====
+
+Die Poster, Flyer und Visitenkarten wurden 2013 von Maren Hachman in direkten Mail-Kontakt mit [[user>Dee]] erstellt.
+
+  * 24.02. Hinweis von Dee an Maren (private Bekanntschaft), dass Layouter für Poster gesucht werden 
+  * 28.02. Mail von Maren an Mailingliste helfer@ubucon.de, aber keine Reaktion dort
+  * 10.03. Mail von Maren an Dee, weil niemand reagiert
+  * 16.03. Entscheidung Kommunikation privat zwischen Maren und Dee abzuwickeln, weil es über die ML nicht klappt
+  * 17.03. Zusendung der Bazaar-Daten von 2012 von Dee an Maren, da sie kein Bazar hat
+  * bis 08.04. reger E-Mailverkehr über Aussehen, Logos, Texte etc.
+  * 08.04. Finale Version als Scribus-Dateien und PDF für die Druckerei liegen vor
+  * 09.04. Bestellung bei der Druckerei von Dee (siehe unten)
+  * 09.04. Weiterleitung der Rechungen an vorstand-de@ubuntu-de.org
+  * 10.04. Rechnungen von Julius Bloch bezahlt
+  * 11.04. Korrekturabzug von der Druckerei
+  * 13.04. Freigabe für den Druck
+  * 17.04.-19.04. Versand der Materialien
+  * 20.04. Hochladen der Scribus- und PDF-Dateien nach Bazaar von Dee
+  * 20.04. Ankunft der Materialien
+
+==== Druckerei ====
+  
+Als Druckerei wurde [[http://www.wir-machen-druck.de/|Drueckerei WIRmachenDRUCK]] ausgesucht, da Maren damit schon gute Erfahrungen hatte.
+
+Die Abwicklung über die Webseite war ganz okay. Es war nur etwas umständlich, weil der Besteller (Dee) ungleich dem Rechnungszahler (Julius) ungleich dem Empfänger (Lasall) ungleich dem Layouter für Rückfragen (Maren) war. Nach der Bestellung wurden die Rechnungen per PDF an den Verein weitergeleitet und von Juliux schnell bezahlt.
+
+Der Korrekturabzug wurde schnell zugesandt. Es wurde aber nicht wirklich groß auf Fehler eingegangen. Die Qualitätskontrolle (Kosten siehe unten) kann man sich ggf. sparen, wenn man einen guten Layouter hat.
+
+Die Qualität der Drucke war gut.
+
+==== Stückzahl und Preise ====
+
+Folgende Anzahlen (mit Kosten) wurden gedruckt (geplant für den LinuxTag Berlin, siehe unten, und die Vor-Ort-Werbung):
+
+  * Visitenkarten
+    * 500 Stück
+    * Größe 85 x 55 mm
+    * quer 4/4 farbig (beidseitiger Druck)
+    * 300g hochwertiger Qualitätsdruck matt gestrichen
+    * Kosten: 14,28 € + 6 € Qualitätskontrolle + 1,90 € Versand + 4,21 € Mehrwertsteuer = 26,39 €
+  * A4-Poster
+    * 25 Stück
+    * Größe: DIN A4 (210 x 297 mm)
+    * einseitig 4/0-farbig bedruckt
+    * 100g hochwertiger Qualitätsdruck glänzend
+    * Kosten: 9,30 € + 12 € Qualitätskontrolle + 1,90 € Versand + 4,41 € Mehrwertsteuer = 27,61 €
+  * A2-Poster
+    * 5 Stück
+    * Größe: DIN A2 (420 x 594 mm)
+    * einseitig 4/0-farbig bedruckt
+    * 100g hochwertiger Qualitätsdruck glänzend
+    * Kosten: 11,49 € + 12 € Qualitätskontrolle + 1,90 € Versand + 4,82 € Mehrwertsteuer = 30,21 €
+  * Flyer
+    * 1000 Stück
+    * Größe: DIN A6 (105 x 148 mm)
+    * zweiseitig 4/4-farbig bedruckt
+    * 90g hochwertiger Qualitätsdruck matt
+    * Kosten: 18,37 € + 12 € Qualitätskontrolle + 1,90 Versand + 6,13 Mehrwertsteuer = 38,40 €
+
+===== Werbung auf Messen =====
+
+Wenn die Werbematerialien früh genug fertig sind, sollte unbedingt auf folgenden Messen Werbung für die Ubucon gemacht werden:
+
+  * [[http://chemnitzer.linux-tage.de/|Chemnitzer Linux-Tage]] (meist Mitte März)
+  * [[https://www.linuxtag.org/|LinuxTag Berlin]] (meist Ende Mai)
+
+Hier sollte man sich mit dem jeweiligen Messeteam [[ubuntuusers>LocoTeam/Messen|Messeteam]] absprechen, was an Material benötigt wird.
+
+Noch einmal: **Es ist sehr wichtig, auf Messen Werbung zu machen!** Daher auch mit der Posterplanung rechtzeitig anfangen!
+
+
+===== Werbung auf Webseiten =====
+
+Neben der [[Ubucon:2013:Webseite|Ubucon-Webseite]] und den Meldungen in [[Ubucon:2013:Soziale_Netzwerke|Sozialen Netzwerken]] sollte man bei wichtigen Ereignissen (Call for Papers, Programm fertig etc.) auf folgenden Seiten versuchen eine Nachricht zu hinterlassen:
+
+  * [[http://www.pro-linux.de/news/10/1/news-mitteilen.html|Pro-Linux]] - [[http://www.pro-linux.de/news/1/20090/anmeldung-zur-ubucon-2013-ab-sofort-moeglich.html | Anmeldung]], [[http://www.pro-linux.de/news/1/19580/ubucon-2013-startet-call-for-papers.html | CfP]]
+  * [[http://www.heise.de/open/Impressum-Kontakt-4768.html|Heise open]] - [[http://www.heise.de/open/meldung/Vortraege-und-Referenten-fuer-die-Ubucon-2013-gesucht-1933009.html | CfP/Anmeldung]]
+  * [[http://www.golem.de/sonstiges/impressum.html|Golem OpenSource]] – Kein Artikel, da sie nur noch in Ausnahmefällen über anstehende Konferenzen berichten.
+  * [[http://www.linux-magazin.de/Heft-Abo/Kontakt/Kontakt|Linux-Magazin]] - [[http://www.linux-magazin.de/NEWS/Ubucon-2013-mit-Crowdsourcing|CfP/Anmeldung]]
+
+Techblogs:
+  * [[http://stadt-bremerhaven.de/| Caschys Blog]], [[http://stadt-bremerhaven.de/ubucon-deutsche-ubuntu-conference-startet-anmeldung/| Artikel]]
+  * [[http://mobiflip.de| Mobiflip.de]], [[http://www.mobiflip.de/ubucon-2013-in-heidelberg/ | Artikel]]
+  * [[http://mobilegeeks.de | mobilegeeks.de]] - keine Rückmeldung bisher
+  * [[http://linuxundich.de | linuxundich.de]] - keine Rückmeldung bisher
+
+Wie und ob Kontakt zu englischen Netzwerken, wie z.B. dem Ubuntu Newsletter, zustande kommt, ist nicht geklärt.
+==== Ikhaya ====
+
+[[http://ikhaya.ubuntuusers.de/|Ikhaya]] hat eine Sonderstellung. Auch hier sollten die wichtigsten Nachrichten gepostet werden. Oft ist jemand aus dem Orga-Team aber bei ubuntuusers.de angemeldet.
+
+Zusätzlich soll es jede Woche (oder alle zwei Wochen) ein Update bei Ikhaya mit den neuesten Entwicklungen geben. Insgesamt werden nur die News der Ubucon-Seite zusammengefasst, da die Reichweite von Ikhaya meist größer ist. Hier ist ein [[http://ikhaya.ubuntuusers.de/2013/04/30/ubucon-2013-aktuelles-zur-ubucon/|Beispiel]].
+
+**Wichtig:** Zur besseren Kategorisierung sollen die Ikhaya-Beiträge ein "[Ubucon XXXX]" am Anfang tragen.
+
+===== Planeten =====
+
+Der Ubucon-Feed ist bei folgenden Planeten angemeldet:
+
+  * [[http://planet.ubuntuusers.de/|Planet ubuntuusers.de]]
+  * [[http://osbn.de/|Open Source Blog Netzwerk]] (Anmeldung von [[user>Dee]] vorgenommen, er hat die Zugangsdaten)
+
+===== Mailinglisten =====
+
+Auf folgenden Mailinglisten sollten man ebenfalls die wichtigsten Informationen hinterlassen:
+
+  * [[https://lists.ubuntu.com/mailman/listinfo/ubuntu-de-events|ubuntu-de-events]]
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/ubucon-de|ubucon-de]]
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/loco-de|loco-de]]
+
+Unter welcher Adresse man dort schreibt, ist nicht festgelegt. Es gibt keine feste Ubucon-Verwaltungsadresse.

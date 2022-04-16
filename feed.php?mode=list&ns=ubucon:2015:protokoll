@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.ubucon.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.ubucon.de/feed.php">
+        <title>Ubucon ubucon:2015:protokoll</title>
+        <description></description>
+        <link>https://wiki.ubucon.de/</link>
+        <image rdf:resource="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2022-04-15T00:04:43+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015:protokoll:20150716?rev=1437075637&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ubucon</title>
+        <link>https://wiki.ubucon.de/</link>
+        <url>https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015:protokoll:20150716?rev=1437075637&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-16T21:40:37+02:00</dc:date>
+        <title>ubucon:2015:protokoll:20150716</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015:protokoll:20150716?rev=1437075637&amp;do=diff</link>
+        <description>IRC-Protokoll 16.07.2015
+
+	*  Treffpunkt: #ubucon-de
+	*  Dauer: 20 Uhr - 21:20 Uhr
+	*  Anwesend (aktiv): kutteldaddeldu, svij (Moderator, Protokollant), ixel, toddy, dee
+
+	*  Vorträge
+		*  Bisher 9
+		*  svij spricht auf Froscon weitere Leute an
+		*</description>
+    </item>
+</rdf:RDF>

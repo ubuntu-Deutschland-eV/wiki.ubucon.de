@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.ubucon.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.ubucon.de/feed.php">
+        <title>Ubucon ubucon:2013:besucher</title>
+        <description></description>
+        <link>https://wiki.ubucon.de/</link>
+        <image rdf:resource="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2022-04-15T00:04:37+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:besucher:doppelzimmer-suche?rev=1372543328&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ubucon</title>
+        <link>https://wiki.ubucon.de/</link>
+        <url>https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:besucher:doppelzimmer-suche?rev=1372543328&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:02:08+02:00</dc:date>
+        <title>ubucon:2013:besucher:doppelzimmer-suche</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:besucher:doppelzimmer-suche?rev=1372543328&amp;do=diff</link>
+        <description>Suche nach einem Doppelzimmerpartner
+
+Auf dieser Webseite kann man sich eintragen, wenn man für die Übernachtung in einem Hotel in Heidelberg einen Doppelzimmer-Partner sucht. Der Kontakt entsteht z.B. per E-Mail oder Privatnachricht auf ubuntuusers.de unter den Suchern untereinander.</description>
+    </item>
+</rdf:RDF>

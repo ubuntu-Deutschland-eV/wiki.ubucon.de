@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.ubucon.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.ubucon.de/feed.php">
+        <title>Ubucon ubucon</title>
+        <description></description>
+        <link>https://wiki.ubucon.de/</link>
+        <image rdf:resource="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2022-04-15T00:04:26+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013?rev=1382126828&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2014?rev=1398953376&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2015?rev=1434382710&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2016?rev=1446565213&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ubucon</title>
+        <link>https://wiki.ubucon.de/</link>
+        <url>https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013?rev=1382126828&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-18T22:07:08+02:00</dc:date>
+        <title>ubucon:2013</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013?rev=1382126828&amp;do=diff</link>
+        <description>Ubucon 2013
+
+Hier befindet sich das Besucher-Wiki zur Ubucon 2013. Mehr Informationen zur Ubucon 2013 unter &lt;http://ubucon.de/2013&gt;. Es handelt sich um die Ubuntu-Konferenz für die deutschsprachige Community. Sie findet dieses Jahr vom 11. - 13. Oktober 2013 in Heidelberg statt (unterstützt vom</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2014?rev=1398953376&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-05-01T16:09:36+02:00</dc:date>
+        <title>ubucon:2014</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2014?rev=1398953376&amp;do=diff</link>
+        <description>Ubucon 2014
+
+Hier befindet sich das Besucher-Wiki zur Ubucon 2014. Mehr Informationen zur Ubucon 2014 unter &lt;http://ubucon.de/&gt;. Es handelt sich um die Ubuntu-Konferenz für die deutschsprachige Community. Sie findet dieses Jahr vom 17. - 19. Oktober 2014 in Katlenburg statt (unterstützt vom</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2015?rev=1434382710&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-06-15T17:38:30+02:00</dc:date>
+        <title>ubucon:2015</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2015?rev=1434382710&amp;do=diff</link>
+        <description>Ubucon 2015
+
+Hier befindet sich das Besucher-Wiki zur Ubucon 2015. Mehr Informationen zur Ubucon 2015 unter &lt;http://ubucon.de/2015&gt;. Es handelt sich um die Ubuntu-Konferenz für die deutschsprachige Community. Sie findet dieses Jahr vom 23. - 25. Oktober 2015 in Berlin statt (unterstützt vom</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2016?rev=1446565213&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-03T16:40:13+02:00</dc:date>
+        <title>ubucon:2016</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2016?rev=1446565213&amp;do=diff</link>
+        <description>UbuCon Europe 2016
+
+This is the public wiki of the UbuCon Europe 2016. More Information about UbuCon 2016 will be available on &lt;http://ubucon.eu&gt; soon. 
+
+General
+
+	*  Mission statement
+	*  Our target audience
+	*  The Location
+
+	*  Timeline of the preparation of the event
+
+Tasks
+
+	*  Tasks Overview
+
+	*  Everything On Site
+
+	*  Website
+	*  Social media
+	*  Advertisements
+
+	*  Sponsoring
+
+Communication, Organisation and Information</description>
+    </item>
+</rdf:RDF>

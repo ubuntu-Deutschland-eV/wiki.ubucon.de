@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.ubucon.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.ubucon.de/feed.php">
+        <title>Ubucon ubucon:2014:protokoll</title>
+        <description></description>
+        <link>https://wiki.ubucon.de/</link>
+        <image rdf:resource="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2022-04-15T00:04:43+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140118?rev=1390127604&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140224?rev=1393269902&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140425?rev=1398976347&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140830?rev=1409480730&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20141026?rev=1414359359&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ubucon</title>
+        <link>https://wiki.ubucon.de/</link>
+        <url>https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140118?rev=1390127604&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-01-19T11:33:24+02:00</dc:date>
+        <title>ubucon:2014:protokoll:20140118</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140118?rev=1390127604&amp;do=diff</link>
+        <description>Protokoll 18.01.2014
+
+	*  Treffpunkt: #ubucon-de 
+	*  Dauer: 21:00 - 23.00
+	*  Anwesend (aktiv): dee, Torsten, Olaf, Steven, Robert, svij
+
+	*  Aufgaben
+		*  &lt;http://wiki.ubucon.de/doku.php/ubucon:2014:Aufgaben&gt;
+		*  Leute sind eingetragen und kümmern sich um ihre Bereiche.
+		*  Abstimmung mit anderen, ist gern gesehen.</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140224?rev=1393269902&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-02-24T20:25:02+02:00</dc:date>
+        <title>ubucon:2014:protokoll:20140224</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140224?rev=1393269902&amp;do=diff</link>
+        <description>Protokoll 23.02.2014
+
+	*  Treffpunkt: #ubucon-de 
+	*  Dauer: 20:00 - 21.00
+	*  Anwesend (aktiv): dee, Torsten, Olaf, Steven
+
+	*  Call for Papers 
+		*  Bis jetzt ist noch nicht viel gekommen.
+		*  Dee hat die Referenten vom letzten Mal angeschrieben. Vielleicht kommt hier was.</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140425?rev=1398976347&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-05-01T22:32:27+02:00</dc:date>
+        <title>ubucon:2014:protokoll:20140425</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140425?rev=1398976347&amp;do=diff</link>
+        <description>Protokoll 25.04.2014
+
+	*  Treffpunkt: #ubucon-de 
+	*  Dauer: 20:00 - 21.10
+	*  Anwesend (aktiv): dee (nicht bis Ende), Torsten, Olaf, Steven
+
+	*  Anmeldung zur Ubucon. Ab wann und wie? 
+		*  Anmeldeformular wird auf der Seite gestellt. 
+		*  Es soll ein Link bei der Anmeldung zu der Hotelseite untergebracht werden.</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140830?rev=1409480730&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-08-31T12:25:30+02:00</dc:date>
+        <title>ubucon:2014:protokoll:20140830</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20140830?rev=1409480730&amp;do=diff</link>
+        <description>Protokoll 30.08.2014
+
+	*  Treffpunkt: #ubucon-de 
+	*  Dauer: 20:00 - 20.50 und dann danach
+	*  Anwesend (aktiv): dee, Torsten (nur reguläre Zeit), svij (nur reguläre Zeit), Olaf (nach regulärer Zeit)
+
+	*  Veranstaltungsprogramm 
+		*  Dee hat ein Veranstaltungsprogramm erstellt. Es hat drei Slots + LPI Prüfung. (Die Raumgrößen sind noch nicht ganz klar und müssen noch mal in Erfahrung gebracht werden. Olaf, kannst Du diese an die team-Liste schicken?)</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20141026?rev=1414359359&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-10-26T22:35:59+02:00</dc:date>
+        <title>ubucon:2014:protokoll:20141026</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2014:protokoll:20141026?rev=1414359359&amp;do=diff</link>
+        <description>Protokoll 26.10.2014
+
+	*  Treffpunkt: #ubucon-de 
+	*  Dauer: 20:00 - 21.10 
+	*  Anwesend (aktiv): dee, Torsten, svij, Olaf 
+
+Retrospektive der Ubucon 2014
+
+	*  Runde zum Gewinnen von Themen
+	*  Thema 1: Hauptorganisation und zu ruhig während der Vorbereitung</description>
+    </item>
+</rdf:RDF>

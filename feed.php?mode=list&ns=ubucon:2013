@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.ubucon.de/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.ubucon.de/feed.php">
+        <title>Ubucon ubucon:2013</title>
+        <description></description>
+        <link>https://wiki.ubucon.de/</link>
+        <image rdf:resource="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2022-04-15T00:04:38+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:aufgaben?rev=1381867527&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:helfer_vor_ort?rev=1381403055&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:kommunikation?rev=1376849095&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll?rev=1382125976&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:referenten?rev=1380396551&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:retrospektive?rev=1382289625&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:soziale_netzwerke?rev=1372543360&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:sponsoring?rev=1376391764&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:vor_ort?rev=1381206991&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:vorbereitungen?rev=1382126799&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:webseite?rev=1372543212&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.ubucon.de/doku.php/ubucon:2013:werbung?rev=1377249311&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ubucon</title>
+        <link>https://wiki.ubucon.de/</link>
+        <url>https://wiki.ubucon.de/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:aufgaben?rev=1381867527&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-15T22:05:27+02:00</dc:date>
+        <title>ubucon:2013:aufgaben</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:aufgaben?rev=1381867527&amp;do=diff</link>
+        <description>Aufgaben
+
+Auf der Seiten sollen die Aufgaben, aber vor allem die Ansprechpartner beschrieben werden, sodass man bei Fragen sich schnell an die richtige Stelle wenden kann. Auf der Übersichtsseite findet man die Auflistung nach Gebieten.
+
+Orga-Team (alphabetisch)
+
+	*</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:helfer_vor_ort?rev=1381403055&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-10T13:04:15+02:00</dc:date>
+        <title>ubucon:2013:helfer_vor_ort</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:helfer_vor_ort?rev=1381403055&amp;do=diff</link>
+        <description>Helfer vor Ort
+
+Vor Ort werden Leute benötigt die bei unterschiedlichen Aufgaben helfen. Diese Seite ist eine Übersicht, was für Aufgaben anfallen und wer sich um diese Aufgaben kümmert. Jede/r darf sich eintragen oder auch Inhalte hinzufügen.
+
+Aufbau ab circa 13 bis 16 Uhr Uhr am Freitag 11.10.2013</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:kommunikation?rev=1376849095&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-08-18T20:04:55+02:00</dc:date>
+        <title>ubucon:2013:kommunikation</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:kommunikation?rev=1376849095&amp;do=diff</link>
+        <description>Interne und externe Kommunikation
+
+Diese Seite beschreibt, wie die Kommunikation intern und von extern funktioniert.
+
+Interne Kommunikation
+
+E-Mail/Mailingliste
+
+Für die interne Kommunikation sollte eigentlich die Mailingliste
+
+	*  ubucon-de
+
+benutzt werden. Die Liste ist nicht öffentlich. Sie wird von</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll?rev=1382125976&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-18T21:52:56+02:00</dc:date>
+        <title>ubucon:2013:protokoll</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:protokoll?rev=1382125976&amp;do=diff</link>
+        <description>Protokoll
+
+Hier liegen die Protkolle der IRC-Treffen.
+
+	*  IRC-Agenda 20. Oktober 2013
+	*  IRC-Protokoll 06. Oktober 2013
+	*  IRC-Protokoll 22. September 2013
+	*  IRC-Protokoll 15. September 2013
+	*  IRC-Protokoll 08. September 2013
+	*  IRC-Protokoll 01. September 2013
+	*  IRC-Protokoll 25. August 2013
+	*  IRC-Protokoll 18. August 2013
+	*  IRC-Protokoll 04. August 2013
+	*  IRC-Protokoll 29. Juli 2013
+	*  IRC-Protokoll 22. Juli 2013
+	*  IRC-Protokoll 15. Juli 2013
+	*  IRC-Protokoll 08. Juli 2013
+…</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:referenten?rev=1380396551&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-09-28T21:29:11+02:00</dc:date>
+        <title>ubucon:2013:referenten</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:referenten?rev=1380396551&amp;do=diff</link>
+        <description>Die Referenten halten Kontakt über die Mailadresse idee@ubucon.de (siehe Externe Kommunikation). Die Mailadresse leitet auf die Mailingliste Organisation idee-ubucon-de weiter.
+
+Kontaktpflege
+
+Die Kontakte werden aus Datenschutzgründen auf einer interne Wiki-Seite gepflegt (mit Absicht nicht verlinkt). Der Aufbau der Seite ist wie folgt:</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:retrospektive?rev=1382289625&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-20T19:20:25+02:00</dc:date>
+        <title>ubucon:2013:retrospektive</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:retrospektive?rev=1382289625&amp;do=diff</link>
+        <description>Retrospektive
+
+Auf der Seite soll gelistet werden, was wir bei der Ausrichtung der Ubucon 2013 gelernt haben und was beim nächsten Mal verbessert werden kann.
+
+Was haben wir allgemein gelernt?
+
+	*  Der Aufruf zum Organisationskomitee hat nichts gebracht, da sich niemand meldete. Das alte Organisationskomitee hat daher eher einen fließenden „Wechsel“ mit den Helfern gemacht, die sich gemeldet haben.</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:soziale_netzwerke?rev=1372543360&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:02:40+02:00</dc:date>
+        <title>ubucon:2013:soziale_netzwerke</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:soziale_netzwerke?rev=1372543360&amp;do=diff</link>
+        <description>Soziale Netzwerke
+
+Um die Erreichbarkeit zu erhöhen, ist die Ubucon auch in sozialen Netzwerk vertreten. Im Jahr 2013 sind das:
+
+	*  Twitter
+	*  Identi.ca
+	*  Facebook
+	*  Google+
+
+Bei Google+ wurde zu dem ein Google+ Ubucon Event angelegt.
+
+Zugriff
+
+Zugriff auf die Dienste haben im Jahr 2013 svij und MarkusH..</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:sponsoring?rev=1376391764&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-08-13T13:02:44+02:00</dc:date>
+        <title>ubucon:2013:sponsoring</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:sponsoring?rev=1376391764&amp;do=diff</link>
+        <description>Sponsoring
+
+Das Thema Sponsoring übernimmt im Jahr 2013 svij.
+
+Für das Vor-Ort-Sponsoring in Heidelberg ist Lasall zuständig (siehe auch Organisation vor Ort).
+
+:!: TODO Der Rest muss von svij und toddy ergänzt werden!
+
+Sponsoren
+
+LPI e.V.
+
+Kontakt: Klaus Behrla
+
+Teuto.net
+
+Univention</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:vor_ort?rev=1381206991&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-08T06:36:31+02:00</dc:date>
+        <title>ubucon:2013:vor_ort</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:vor_ort?rev=1381206991&amp;do=diff</link>
+        <description>Vor Ort
+
+Die Organisation vor Ort in Heidelberg übernimmt Lasall.
+
+Organisation
+
+Es gibt eine Lounge in der die Besucher ankommen sich anmelden und ihr Ubuntu-Empfangspaket (Lanyard+Tasse+Namensschild) entgegen nehmen können. Für dieses Jahr ist angedacht das Besuchermanagement zu automatisieren so das Besucherschilder on Demand gedruckt werden können und nicht vorher. Besucher die nicht angemeldet sind melden sich ebenfalls an der Rezeption an, bezahlen allerdings etwas mehr (diese Besucher sin…</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:vorbereitungen?rev=1382126799&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-10-18T22:06:39+02:00</dc:date>
+        <title>ubucon:2013:vorbereitungen</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:vorbereitungen?rev=1382126799&amp;do=diff</link>
+        <description>Vorbereitungen
+
+Die Seite soll beschreiben, wie der zeitliche Ablauf der Planung und Umsetzung zur Ubucon funktioniert. 
+
+Vergangenheit
+
+	*  15.11.2012: Veranstaltungsort gesucht
+	*  04.12.2012: Organisationskomittee gesucht
+	*  30.01.2013: Vorbereitungen gestartet (Kernteam im IRC festgelegt)
+	*  16.03.2013: Termin festgelegt
+	*  16.03.2013:</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:webseite?rev=1372543212&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-06-30T00:00:12+02:00</dc:date>
+        <title>ubucon:2013:webseite</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:webseite?rev=1372543212&amp;do=diff</link>
+        <description>Webseite
+
+Die Ubucon-Webseite ubucon.de dient der Präsenz der Veranstaltung nach außen. Als CMS wird Drupal eingesetzt.
+
+Inhalte
+
+Auf der Webseite werden seit 2013 dynamische Inhalte (News) und statische Seiten abgelegt. Die statischen Seiten sind in der Regel über die Menüleiste links zugreifbar. Die News nur über den Link</description>
+    </item>
+    <item rdf:about="https://wiki.ubucon.de/doku.php/ubucon:2013:werbung?rev=1377249311&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-08-23T11:15:11+02:00</dc:date>
+        <title>ubucon:2013:werbung</title>
+        <link>https://wiki.ubucon.de/doku.php/ubucon:2013:werbung?rev=1377249311&amp;do=diff</link>
+        <description>Werbung
+
+Sehr frühzeitig muss Werbung auf anderen Linux-Messen und natürlich am Veranstaltungsort gemacht werden.
+
+Material
+
+Das Material der Ubucon 2013 liegt auf Launchpad und kann mit Bazaar über
+bzr branch lp:~ubuntu-de-locoteam/+junk/loco-de
+heruntergeladen werden. Hochladen darf man Sachen nur, wenn man Mitglied eines</description>
+    </item>
+</rdf:RDF>

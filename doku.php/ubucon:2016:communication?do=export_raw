@@ -1,0 +1,51 @@
+====== Internal and external communication ======
+
+This page explains how we communicate internally and with the external world.
+
+===== Internal Communication =====
+
+==== Mailing List ====
+
+There is one list for internal communication, attached to the Launchpad project:
+
+  * [[https://launchpad.net/~ubuconeu|ubucon-eu]]
+
+The Launchpad-Group is public and managed by [[user>svij]].
+
+==== IRC ====
+
+We have an ICR channel on Freenode:
+
+  * **#ubucon-eu** on **irc.freenode.net**
+
+[[user>sturmflut]] and [[user>svij]] currently have operator rights, it is not registered yet.
+
+==== Wiki ====
+
+The Wiki is at the moment mostly managed by [[user>sturmflut]] and [[user>svij]] or the responsible manager of a [[http://wiki.ubucon.de/doku.php/ubucon:2016:tasks|task]].
+
+===== External communication =====
+
+==== E-Mail ====
+
+We PLAN TO offer multiple contact addresses for specific topics:
+
+  * Registration for and visits to Ubucon: <visitors@ubucon.de>
+  * Proposals for talks, workshops and speakers: <ideas@ubucon.de>
+  * Helping to run Ubucon Europe: <helpers@ubucon.de>
+  * Press relations: <press@ubucon.de>
+  * Sponsoring and financial support: <sponsors@ubucon.de>
+  * The orga team: <team@ubucon.de>
+  * Feedback: <feedback@ubucon.de>
+
+All addresses WILL LIKELY BE forwarded to mailing lists:
+
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/besucher-ubucon-eu|visitors-ubucon-eu]] (Registration and visiting Ubucon Europe)
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/idee-ubucon-eu|idea-ubucon-eu]] (Proposals for talks, workshops and speakers)
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/ubucon-eu|ubucon-eu]] (the rest)
+
+The mailing lists will not be public and currently [[user>svij]] manages the overall mailing list area.
+
+==== IRC ====
+
+See [[#IRC]] under "Internal communication".

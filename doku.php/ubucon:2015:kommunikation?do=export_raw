@@ -1,0 +1,51 @@
+====== Interne und externe Kommunikation ======
+
+Diese Seite beschreibt, wie die Kommunikation intern und von extern funktioniert.
+
+===== Interne Kommunikation =====
+
+==== E-Mail/Mailingliste ====
+
+Für die interne Kommunikation wird die Mailingliste
+
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/ubucon-de|ubucon-de]]
+
+benutzt. Die Liste ist nicht öffentlich. Sie wird von [[user>svij]] verwaltet.
+
+==== IRC ====
+
+Der Chat ist zu finden unter
+
+  * **#ubucon-de** auf **irc.freenode.net**
+
+Die Verwaltung des Chats übernimmt [[user>toddy]] (oder jeder anderer [[ubuntuusers>LocoTeam/UbuntuMember|Ubuntu-Member]]).
+
+==== Wiki ====
+
+Pflege der Seiten übernimmt größtenteils [[user>svij]] oder die jeweiligen [[Ubucon:2015:Aufgaben|Aufgabenbetreuer]].
+
+===== Externe Kommunikation =====
+
+==== E-Mail/Mailingliste ====
+
+Für die Kommunikation mit dem Ubucon-Team gibt es folgende E-Mail-Adressen:
+
+  * Anmeldung und Besuch: <besucher@ubucon.de>
+  * Vorträge, Workshops und Referenten: <idee@ubucon.de>
+  * Helfen und Mitmachen: <helfer@ubucon.de>
+  * Presseanfragen: <presse@ubucon.de>
+  * Sponsoren und Unterstützer: <sponsor@ubucon.de>
+  * Organisation und Allgemeines: <team@ubucon.de>
+  * Feedback: <feedback@ubucon.de>
+
+Alle Mailadressen werden auf Mailinglisten weitergeleitet:
+
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/besucher-ubucon-de|besucher-ubucon-de]] (Anmeldung und Besucher)
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/idee-ubucon-de|idee-ubucon-de]] (Vorträge, Workshops und Referenten)
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/ubucon-de|ubucon-de]] (der Rest)
+
+Die Mailinglisten sind nicht öffentlich und werden von [[user>svij]] verwaltet. Mailinglisten wurden hier genommen, da diese einfach über das Serverteam bereitgestellt werden konnten.
+
+==== IRC ====
+
+Siehe [[#IRC]] oben bei „Interne Kommunikation“.

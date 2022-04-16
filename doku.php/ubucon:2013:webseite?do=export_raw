@@ -1,0 +1,42 @@
+====== Webseite =======
+
+Die Ubucon-Webseite [[http://ubucon.de|ubucon.de]] dient der Präsenz der Veranstaltung nach außen. Als CMS wird Drupal eingesetzt.
+
+===== Inhalte =====
+
+Auf der Webseite werden seit 2013 dynamische Inhalte (News) und statische Seiten abgelegt. Die statischen Seiten sind in der Regel über die Menüleiste links zugreifbar. Die News nur über den Link [[http://ubucon.de/2013|Aktuelles]] und den [[http://ubucon.de/rss.xml|RSS-Feed]].
+
+Zu den statischen Seiten, die jedes Jahr immer wieder die gleichen sind, zählen:
+
+  * [[http://ubucon.de/2013/ubucon|Was ist die Ubucon?]]
+  * [[http://ubucon.de/2013/cfp|Call for Papers]]
+  * [[http://ubucon.de/2013/programm|Programm]]
+  * [[http://ubucon.de/2013/besucher|Besucher]]
+  * [[http://ubucon.de/2013/kontakt|Kontakt]]
+  * [[http://ubucon.de/2013/impressum|Impressum]]
+
+Die obigen Seitennamen sollten jedes Jahr gleich sein, weil die Seiten ohne Jahreszahl, z.B. [[http://ubucon.de/cfp]], per Rewrite-Rule immer auf das aktuelle Jahr umgeleitet werden. 
+
+In den News kann man alles posten, was irgendwie für die Ubucon relevant ist. Die News dienen vor allem der Transparenz, sodass die Vorbereitungen nicht im Geheimen ablaufen. Die Hoffnung ist auch, dass sich dadurch auf lange Sicht mehr Helfer finden.
+
+Die einzelnen Seiten (egal ob News oder Seite) müssen als URL-Alias immer mit dem Jahr beginnen, also z.B. **2013/cfp**, damit es keine Konflikte mit den anderen Jahren gibt. Der News-Feed zeigt immer alle News aus allen Jahren, sodass es ggf. einen zeitlichen Sprung nach der Ubucon geben kann, bevor die Vorbereitungen anlaufen.
+
+===== Kommentare =====
+
+Kommentare müssen extra freigeschaltet werden. Wer Zugriff auf Drupal hat, kann unter //[[http://ubucon.de/admin/settings/actions|"Verwaltung -> Einstellungen -> Aktionen"]]// unten unter //"Eine neue erweiterte Aktion zu Verfügung stellen"// die Aktion //"E-Mail senden"// auswählen und trägt im nachfolgenden Fenster seine E-Mailadresse ein. Als Vorlage kann man die Aktion //"E-Mail senden an ubucon at deesaster.org"// nutzen. Damit das Abo funktioniert, muss noch unter //[[http://ubucon.de/admin/build/trigger/comment|„Verwaltung -> Strukturierung -> Trigger -> Kommentare“]]// die neue Aktion ausgewählt werden.
+
+Weil der Kommentar-Spam überhand nahm, wurde das Modul [[http://ubucon.de/admin/user/captcha/riddler|„Captcha Riddler“]] installiert. 
+
+===== Design =====
+
+Das Webseiten-Theme nennt sich "Ubuntu Drupal NG Theme" und wurde bis auf das Logo ohne Veränderungen übernommen.
+
+Das Logo für der Webseite findet man unter [[Ubucon:2013:Werbung#Material]]. Es liegt auf Launchpad und kann mit [[ubuntuusers>Inkscape]] angepasst werden.
+
+===== Zugriff =====
+
+Zugriff auf Drupal haben im Jahr 2013 [[user>Dee]], [[user>toddy]] und [[user>ostcar]].
+
+Die technische Administrationen von Drupal übernimmt [[user>ostcar]]. Die Webseite selbst läuft auf den Server der Ubuntu Community in Deutschland auf denen auch die Plattform ubuntuusers.de läuft.
+
+Die inhaltliche Administrationen übernimmt im Jahr 2013 [[user>Dee]].

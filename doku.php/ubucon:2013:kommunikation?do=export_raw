@@ -1,0 +1,69 @@
+====== Interne und externe Kommunikation ======
+
+Diese Seite beschreibt, wie die Kommunikation intern und von extern funktioniert.
+
+===== Interne Kommunikation =====
+
+==== E-Mail/Mailingliste ====
+
+Für die interne Kommunikation sollte eigentlich die Mailingliste
+
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/ubucon-de|ubucon-de]]
+
+benutzt werden. Die Liste ist nicht öffentlich. Sie wird von [[user>toddy]] verwaltet.
+
+Die Mailingliste wurde von den Helfern 2013 nicht wirklich angenommen. Es gab vereinzelte Meldungen, Diskussionen fanden aber nicht statt.
+
+Diskutiert wurde fast immer nur im kleinen Rahmen über private E-Mailadressen, privat in Jabber oder über IRC (siehe unten).
+
+
+==== IRC ====
+
+Der Chat ist zu finden unter
+
+  * **#ubucon-de** auf **irc.freenode.net**
+
+Für die Ubucon 2013 wurde ab Ende April 2013 jeden Sonntag um 20 Uhr ein Treffen abgehalten, dass für jeden zugänglich ist. Dieses fand vom 22. Juni bis 29. Juni am Samstag um 21 Uhr statt, dann bis 29. Juli am Montag um 20 Uhr. Aktuell findet es **Sonntags** um **19 Uhr** statt. Es werden dort mit den Helfern die für die kommende Woche noch anstehenden Aufgaben besprochen.
+
+Die Verwaltung des Chats übernimmt [[user>toddy]] (oder jeder anderer [[ubuntuusers>LocoTeam/UbuntuMember|Ubuntu-Member]]).
+
+==== Wiki ====
+
+Zur Dokumentation wurde bis zum 29. Juni das [[ubuntuusers>LocoTeam/Ubucon/2013|ubuntuusers-Wiki]] genutzt und dann auf [[http://wiki.ubucon.de/|dieses Wiki]] umgestellt. Die Pflege der Seiten übernimmt größtenteils [[user>Dee]] oder die jeweiligen [[Ubucon:2013:Aufgaben|Aufgabenbetreuer]].
+
+==== Telko-Raum ====
+
+Bei MyTelco.de gibt es einen reservierten Telko-Raum:
+
+  * **Einwahlnummer: +496151627315613**
+  * **PIN: 9878**
+
+Der Raum ist jeweils 4 Wochen reserviert und verlängert sich automatisch um 4 Wochen bei jeder Nutzung.
+
+Z.B. über die App [[https://play.google.com/store/apps/details?id=com.forfone.sip&feature=nav_result#?t=W251bGwsMSwxLDMsImNvbS5mb3Jmb25lLnNpcCJd|forfone]] kann man kostenlos an der Telefonkonferenz teilnehmen.
+
+===== Externe Kommunikation =====
+
+==== E-Mail/Mailingliste ====
+
+Für die Kommunikation mit dem Ubucon-Team gibt es folgende E-Mail-Adressen:
+
+  * Anmeldung und Besuch: <besucher@ubucon.de>
+  * Vorträge, Workshops und Referenten: <idee@ubucon.de>
+  * Helfen und Mitmachen: <helfer@ubucon.de>
+  * Presseanfragen: <presse@ubucon.de>
+  * Sponsoren und Unterstützer: <sponsor@ubucon.de>
+  * Organisation und Allgemeines: <team@ubucon.de>
+  * Feedback: <feedback@ubucon.de>
+
+Alle Mailadressen werden auf Mailinglisten weitergeleitet:
+
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/besucher-ubucon-de|besucher-ubucon-de]] (Anmeldung und Besucher)
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/idee-ubucon-de|idee-ubucon-de]] (Vorträge, Workshops und Referenten)
+  * [[http://lists.ubuntu-eu.org/mailman/listinfo/ubucon-de|ubucon-de]] (der Rest)
+
+Die Mailinglisten sind nicht öffentlich und werden von [[user>toddy]] verwaltet. Mailinglisten wurden hier genommen, da diese einfach über das Serverteam bereitgestellt werden konnten.
+
+==== IRC ====
+
+Siehe [[#IRC]] oben bei „Interne Kommunikation“.
